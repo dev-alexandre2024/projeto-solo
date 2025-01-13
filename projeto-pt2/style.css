@@ -6,9 +6,22 @@ body{
     
 }
 html{
-    background-image: url(DALL·E\ 2025-01-13\ 12.50.46\ -\ A\ seamless\ wooden\ texture\ with\ natural\ grain\,\ knots\,\ and\ warm\ brown\ tones.\ The\ image\ shows\ a\ close-up\ view\ of\ wood\ planks\ with\ no\ additional\ objects\,\ .webp);
+    background-image: url(fundo.webp);
     background-repeat: no-repeat;
     height: 100vh;
     width: 100vw;
     background-size: cover;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color:white;
+    background-color: darkred;
+    border-radius: 10px;
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+    margin: 10px;
+    justify-content: space-between;
 }
