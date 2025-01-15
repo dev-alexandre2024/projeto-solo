@@ -34,13 +34,6 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
   
 Não foram utilizadas bibliotecas ou frameworks externos.
 
-## Como Usar
-
-1. Clone este repositório para sua máquina local:
-
-   ```bash
-   git clone # Projeto de Tabelas em HTML e CSS
-
 ## Objetivo
 
 Este projeto tem como objetivo demonstrar os conhecimentos adquiridos nos cursos de HTML e CSS, aplicados na criação e formatação de tabelas. Através deste projeto, é possível observar a estrutura de uma tabela de notas escolares, mostrando como o HTML pode ser utilizado para criar elementos bem estruturados, e como o CSS contribui para o design e a usabilidade visual da página.
