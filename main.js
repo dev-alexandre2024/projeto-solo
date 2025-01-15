@@ -1,20 +1,6 @@
 const links = document.querySelectorAll('li')
 const boletins = document.querySelectorAll('.div-boletim')
 
-// window.addEventListener('click', () => {
-//     boletins.forEach(bb => {
-//         console.log(bb.classList[1])
-//     })
-// })
-
-links.forEach(link => {
-    link.addEventListener('click', () => {
-        console.log(link.textContent)
-
-        validarLink(link.textContent)
-    })
-})
-
 function validarLink(link) {
     switch (link) {
         case "Ana":
@@ -35,3 +21,9 @@ function validarLink(link) {
             break;
     }
 }
+
+links.forEach(link => {
+    link.addEventListener('click', () => {
+        validarLink(link.textContent)
+    })
+})
