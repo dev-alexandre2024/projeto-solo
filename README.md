@@ -2,7 +2,7 @@
 
 ## Resultado final do projeto
 
-![image](https://github.com/user-attachments/assets/215c39dc-56f6-4417-8a58-69dd6a969992)
+https://github.com/user-attachments/assets/1cf174e7-ddb4-46e2-a774-9b3556c6939e
 
 # Projeto de Tabelas em HTML e CSS
 
